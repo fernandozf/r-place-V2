@@ -1,0 +1,10 @@
+polars
+pandas
+s3fs
+matplotlib.pyplot
+boto3
+glob
+os
+pyarrow
+pyarrow.csv
+pyarrow.parquet
